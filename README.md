@@ -1,5 +1,4 @@
 # billeteraEpayco
-**Si usted tiene alguna pregunta o problema, no dude en ponerse en contacto con nuestro soporte técnico: desarrollo@payco.co.**
 
 ## Tabla de contenido
 
